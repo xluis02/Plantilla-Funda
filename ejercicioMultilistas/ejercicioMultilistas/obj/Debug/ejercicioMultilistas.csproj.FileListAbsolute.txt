@@ -1,0 +1,13 @@
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\bin\Debug\ejercicioMultilistas.exe.config
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\bin\Debug\ejercicioMultilistas.exe
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\bin\Debug\ejercicioMultilistas.pdb
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.FormAlumno.resources
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.FormCurso.resources
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.FormPrincipal.resources
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.Properties.Resources.resources
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.csproj.GenerateResource.cache
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.exe
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.pdb
+C:\Users\luisg\OneDrive - Universidad Peruana de Ciencias\Desktop\2024-1\Fundamentos de Sistemas de Información\ejercicioMultilistas\ejercicioMultilistas\obj\Debug\ejercicioMultilistas.FormReporte.resources
