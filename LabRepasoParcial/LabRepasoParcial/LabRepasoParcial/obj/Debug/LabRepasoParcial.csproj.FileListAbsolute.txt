@@ -1,0 +1,13 @@
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.csproj.AssemblyReference.cache
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.FormAlbum.resources
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.FormCancion.resources
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.FormPrincipal.resources
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.Reporte.resources
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.Properties.Resources.resources
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.csproj.GenerateResource.cache
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\bin\Debug\LabRepasoParcial.exe.config
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\bin\Debug\LabRepasoParcial.exe
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\bin\Debug\LabRepasoParcial.pdb
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.exe
+C:\Users\luisg\Downloads\LabRepasoParcial\LabRepasoParcial\LabRepasoParcial\obj\Debug\LabRepasoParcial.pdb
