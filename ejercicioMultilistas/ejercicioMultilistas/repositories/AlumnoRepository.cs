@@ -93,5 +93,10 @@ namespace ejercicioMultilistas.repositories
             }
             return alumnoTemp;
         }
+
+        public List<Alumno> OrdenarDeMenorAMayor()
+        {
+            return alumnos;
+        }
     }
 }
