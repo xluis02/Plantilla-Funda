@@ -1,0 +1,39 @@
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.csproj.AssemblyReference.cache
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.FormPedido.resources
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.forms.FormPrincipal.resources
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.forms.FormSede.resources
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.Properties.Resources.resources
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.csproj.GenerateResource.cache
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.csproj.CoreCompileInputs.cache
+D:\Laboratorios\LabDominos\LabDominos\bin\Debug\LabDominos.exe.config
+D:\Laboratorios\LabDominos\LabDominos\bin\Debug\LabDominos.exe
+D:\Laboratorios\LabDominos\LabDominos\bin\Debug\LabDominos.pdb
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.exe
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.pdb
+D:\Laboratorios\LabDominos\LabDominos\obj\Debug\LabDominos.forms.FormReporte.resources
+D:\Laboratorios\LabDominos - completo\LabDominos\bin\Debug\LabDominos.exe.config
+D:\Laboratorios\LabDominos - completo\LabDominos\bin\Debug\LabDominos.exe
+D:\Laboratorios\LabDominos - completo\LabDominos\bin\Debug\LabDominos.pdb
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.csproj.AssemblyReference.cache
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.FormPedido.resources
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.forms.FormPrincipal.resources
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.forms.FormReporte.resources
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.forms.FormSede.resources
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.Properties.Resources.resources
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.csproj.GenerateResource.cache
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.csproj.CoreCompileInputs.cache
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.exe
+D:\Laboratorios\LabDominos - completo\LabDominos\obj\Debug\LabDominos.pdb
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\bin\Debug\LabDominos.exe.config
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\bin\Debug\LabDominos.exe
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\bin\Debug\LabDominos.pdb
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.csproj.AssemblyReference.cache
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.FormPedido.resources
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.forms.FormPrincipal.resources
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.forms.FormReporte.resources
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.forms.FormSede.resources
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.Properties.Resources.resources
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.csproj.GenerateResource.cache
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.exe
+C:\Users\luisg\Downloads\LabDominos - completo\LabDominos - completo\LabDominos\obj\Debug\LabDominos.pdb
